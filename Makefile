@@ -1,0 +1,2 @@
+make start dev:
+	@air
